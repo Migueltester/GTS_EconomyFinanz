@@ -1,26 +1,31 @@
 import requests
-import json
+import pandas as pd
 import os
 
-# Crear carpeta 'raw' si no existe
-os.makedirs('../raw', exist_ok=True)
+# URL para obtener el PIB de todos los países desde la API del Banco Mundial
+url = (
+    "https://api.worldbank.org/v2/"
+    "country/all/indicator/NY.GDP.MKTP.CD?format=json&per_page=20000"
+)
 
-# URL de la API del Banco Mundial - PIB total (USD)
-url = 'https://api.worldbank.org/v2/country/all/indicator/NY.GDP.MKTP.CD?format=json&per_page=10000'
+# Realizar la petición
+resp = requests.get(url)
+data = resp.json()
 
-# Hacer la solicitud a la API
-print("Solicitando datos del Banco Mundial...")
-response = requests.get(url)
+# Extraer metadatos y registros
+meta, records = data[0], data[1]
 
-# Verificar que la respuesta sea exitosa
-if response.status_code == 200:
-    data = response.json()
+# Convertir a DataFrame plano
+df = pd.json_normalize(records)
 
-    # Guardar el JSON en un archivo local
-    output_path = 'C:/Users/migue/Documents/Parcial_2_Gestion/raw/worldbank_gdp.json'
-    with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+# Ruta de salida (JSON estándar)
+output_path = 'C:/Users/richa/Python/Python4ano/Parcial2/GTS_EconomyFinanz/rawdata/pib_todos_paises_bm.json'
 
-    print(f"✅ Datos guardados en: {output_path}")
-else:
-    print(f"❌ Error al obtener los datos. Código: {response.status_code}")
+# Asegurarse de que el directorio existe
+os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+# Guardar como JSON estándar (array de objetos)
+df.to_json(output_path, orient='records', indent=2, date_format='iso')
+
+print("Archivo guardado exitosamente en formato JSON estándar:")
+print(df.head())
