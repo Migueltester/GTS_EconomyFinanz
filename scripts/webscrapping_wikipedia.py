@@ -1,37 +1,37 @@
+import requests
 import pandas as pd
-import os
+from bs4 import BeautifulSoup
 
-# Ruta al archivo original descargado
-input_path = r"c:/Users/richa/Python/Python4ano/Parcial2/GTS_EconomyFinanz/rawdata/deuda_gobierno_2024.csv"
+# URL
+url = "https://en.wikipedia.org/wiki/List_of_countries_by_government_debt"
+res = requests.get(url)
+soup = BeautifulSoup(res.text, 'html.parser')
 
-# Leer CSV original
-df = pd.read_csv(input_path)
+# Extraer tabla
+tablas = soup.find_all("table", {"class": "wikitable"})
+tabla = tablas[0]
+df = pd.read_html(str(tabla))[0]
 
-# Agregar columnas faltantes
-df["unidad"] = "%"
-df["codigo_indicador"] = "GOVT_DEBT_PCT_GDP"
-df["codigo_region"] = None  # Dejar explícitamente vacío
-df["fuente"] = "Wikipedia"
+# Buscar columna con 'gross debt' y '2024'
+col_2024 = next(c for c in df.columns if "gross debt" in c and "2024" in c)
 
-# Renombrar columnas para estandarización
+# Filtrar columnas
+df = df[["Country and region", col_2024]]
 df = df.rename(columns={
-    "pais": "nombre_region",
-    "valor": "valor",
-    "indicador": "nombre_indicador",
-    "tiempo": "tiempo"
+    "Country and region": "pais",
+    col_2024: "valor"
 })
 
-# Reordenar columnas al formato objetivo
-df = df[[
-    "tiempo", "valor", "unidad",
-    "codigo_indicador", "nombre_indicador",
-    "codigo_region", "nombre_region",
-    "fuente"
-]]
+# Agregar campos estándar
+df["indicador"] = "General government debt as a % of GDP"
+df["tiempo"] = 2024
 
-# Guardar archivo limpio
-output_path = r"c:/Users/richa/Python/Python4ano/Parcial2/GTS_EconomyFinanz/cleandata/deuda_gobierno_limpio.csv"
-os.makedirs(os.path.dirname(output_path), exist_ok=True)
-df.to_csv(output_path, index=False)
+# Limpiar datos: eliminar valores no numéricos
+df = df[pd.to_numeric(df["valor"], errors="coerce").notna()]
+df["valor"] = df["valor"].astype(float)
 
-print("Archivo limpio generado en:\n", output_path)
+# Guardar CSV
+output_path = r"c:/Users/richa/Python/Python4ano/Parcial2/GTS_EconomyFinanz/rawdata/deuda_gobierno_2024.csv"
+df.to_csv(output_path, index=False, encoding="utf-8-sig")
+
+print("Archivo guardado en:", output_path)
