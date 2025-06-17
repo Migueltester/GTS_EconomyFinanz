@@ -9,7 +9,8 @@ archivos = [
     "deuda_externa_limpio.csv",
     "inflacion_anual_limpio.csv",
     "pib_limpio_columnas_seleccionadas.csv",
-    "tasa_cambio_estandarizado.csv"
+    "tasa_cambio_estandarizado.csv",
+    "deuda_gobierno_limpio.csv",
 ]
 
 # Columnas esperadas
@@ -25,7 +26,8 @@ mapa_nombre_indicador = {
     "Tasa de cambio oficial (UMN por US$, promedio para un período)": "Tasa de cambio oficial",
     "GDP (current US$)": "Producto Interno Bruto",
     "External debt stocks, total (DOD, current US$)": "Deuda Externa",
-    "Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG": "Inflación anual"
+    "Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG": "Inflación anual",
+    "General government debt as a % of GDP": "Deuda del gobierno general como % del PIB",
 }
 
 dataframes = []
