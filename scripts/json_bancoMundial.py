@@ -19,7 +19,7 @@ meta, records = data[0], data[1]
 df = pd.json_normalize(records)
 
 # Ruta de salida (JSON estándar)
-output_path = 'C:/Users/richa/Python/Python4ano/Parcial2/GTS_EconomyFinanz/rawdata/pib_todos_paises_bm.json'
+output_path = 'C:/Users/richa/Python/Python4ano/Parcial2/GTS_EconomyFinanz/rawdata/pib_todos_paises.json'
 
 # Asegurarse de que el directorio existe
 os.makedirs(os.path.dirname(output_path), exist_ok=True)

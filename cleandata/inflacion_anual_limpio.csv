@@ -1,0 +1,877 @@
+nombre_indicador,nombre_region,tiempo,tipo_informe,valor,unidad,notes_ids,source_id,codigo_indicador,codigo_region,fuente
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Islas Caimán,2010,Global,0.276140861750108,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Islas Caimán,2011,Global,1.32543575779664,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Islas Caimán,2012,Global,1.18894845245608,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Islas Caimán,2013,Global,2.16061146813391,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Islas Caimán,2014,Global,1.27397911533388,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Islas Caimán,2015,Global,-2.34752770165615,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Islas Caimán,2016,Global,-0.62525835861814,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2000,Global,3.84327295706575,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2001,Global,3.56910053001458,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2002,Global,2.48939816650708,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2003,Global,2.81017875743615,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2004,Global,1.05473871403513,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2005,Global,3.05257621387847,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2006,Global,3.39201733699409,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2007,Global,4.40779938398042,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2008,Global,8.71626873039613,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2009,Global,0.353045178360957,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2010,Global,1.41071107954317,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2011,Global,3.34121694259301,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2012,Global,3.00744840213047,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2013,Global,1.7895555398459,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2014,Global,4.71867527854663,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2015,Global,4.34877353217053,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2016,Global,3.78619355893118,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2017,Global,2.18271846868519,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2018,Global,2.43488981353057,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2019,Global,2.55754475703327,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2020,Global,3.04549084804334,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2021,Global,4.52456838259121,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2022,Global,11.6438667110561,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Chile,2023,Global,7.58168251407969,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2000,Global,10.9615496593622,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2001,Global,11.2556157091172,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2002,Global,9.16752048509119,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2003,Global,9.44758091616984,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2004,Global,12.3148150178852,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2005,Global,13.7982949108987,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2006,Global,11.4705968149052,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2007,Global,9.35724456417157,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2008,Global,13.4244635507284,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2009,Global,7.84270167700654,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2010,Global,5.66275708420021,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2011,Global,4.87799830970702,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2012,Global,4.49545314354605,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2013,Global,5.23133614174428,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2014,Global,4.51920098516954,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2015,Global,0.801982005099623,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2016,Global,-0.0174788505908217,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2017,Global,1.62590692991732,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2018,Global,2.22111461526581,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2019,Global,2.09604635327807,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2020,Global,0.724911478131376,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2021,Global,1.72647755109241,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2022,Global,8.27477490232654,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Costa Rica,2023,Global,0.525193508693455,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2000,Global,2.27128756828723,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2001,Global,3.7508205747202,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2002,Global,1.86552503610077,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2003,Global,2.1203909173333,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2004,Global,4.45194392395045,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2005,Global,4.69094870903769,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2006,Global,4.03712359429612,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2007,Global,4.57808572377153,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2008,Global,6.70792293515939,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2009,Global,1.05595029731201,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2010,Global,1.17933576873673,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2011,Global,5.1289237668161,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2012,Global,1.72973481581383,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2013,Global,0.757669184522973,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2014,Global,1.14134467538233,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2015,Global,-0.731384487387957,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2016,Global,0.60404908699661,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2017,Global,1.0123540331558,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2018,Global,1.09033000581892,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2019,Global,0.0753241350024612,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2020,Global,-0.371590212324095,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2021,Global,3.46692585313082,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2022,Global,7.19861615609867,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Salvador,2023,Global,4.04554694222477,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2000,Global,7.72413566181616,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2001,Global,8.88306848812961,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2002,Global,5.22336769759447,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2003,Global,27.4497127394395,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2004,Global,51.4608598338065,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2005,Global,4.19020260472056,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2006,Global,7.57280523853074,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2007,Global,6.14356655248047,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2008,Global,10.6446210953712,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2009,Global,1.44215131834353,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2010,Global,6.32993220146146,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2011,Global,5.79676809206533,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2012,Global,3.69449707884777,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2013,Global,4.830950967408,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2014,Global,2.99864226125219,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2015,Global,0.836746346724557,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2016,Global,1.61416607245223,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2017,Global,3.27955694678546,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2018,Global,3.56443426013508,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2019,Global,1.81060377042959,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2020,Global,3.78103179915517,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2021,Global,8.24300347981809,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2022,Global,8.81109209279587,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",República Dominicana,2023,Global,4.78561281021135,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2000,Global,2.99561311578007,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2001,Global,2.73071960373777,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2002,Global,2.1716213367067,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2003,Global,2.15492809908679,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2004,Global,2.39410982050298,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2005,Global,3.7334291646702,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2006,Global,3.36150981441245,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2007,Global,4.22896717901186,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2008,Global,7.16374557963224,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2009,Global,0.931845222015372,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2010,Global,2.77944261312587,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2011,Global,3.56226389346315,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2012,Global,2.89121580248278,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2013,Global,1.17236364986991,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2014,Global,1.18171034484371,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2015,Global,-0.168590719809454,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2016,Global,-0.121903764792132,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2017,Global,1.55189751218246,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2018,Global,2.10074119914669,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2019,Global,1.46798976020562,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2020,Global,-0.473583292905476,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2021,Global,2.06299638545334,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2022,Global,5.82838638517959,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",El Caribe,2023,Global,4.39613522399151,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2000,Global,11.0480349344976,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2001,Global,9.67415556865377,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2002,Global,7.69050972034271,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2003,Global,7.67416639397937,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2004,Global,8.1137909709338,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2005,Global,8.80906074819819,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2006,Global,5.57775207654298,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2007,Global,6.93621470895774,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2008,Global,11.4034270813932,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2009,Global,5.49634273772208,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2010,Global,4.69889064976226,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2011,Global,6.7622795731476,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2012,Global,5.19618615531848,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2013,Global,5.16189898581494,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2014,Global,6.12924930313022,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2015,Global,3.15783117980923,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2016,Global,2.72461223295289,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2017,Global,3.93436084442044,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2018,Global,4.34734937777528,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2019,Global,4.36587159819267,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2020,Global,3.46841177951184,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2021,Global,4.48087963413445,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2022,Global,9.08963911525025,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Honduras,2023,Global,6.66325180347457,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2000,Global,2.18181818181821,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2001,Global,3.14099305202543,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2002,Global,1.06721547992874,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2003,Global,2.15492809908679,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2004,Global,2.3129167822611,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2005,Global,3.475806937554,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2006,Global,4.25195321977967,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2007,Global,3.85882922469653,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2008,Global,8.0332732765034,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2009,Global,-0.308654779585642,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2010,Global,3.43650905943351,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2011,Global,3.0334728033474,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2012,Global,2.41077704021862,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2013,Global,-0.0439997864828058,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2014,Global,-0.98360305555498,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2015,Global,-0.515448031435329,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2016,Global,1.65038994431573,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2017,Global,0.908458255874249,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2018,Global,0.804102313277033,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2019,Global,0.598149764736022,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2020,Global,-0.740732597045498,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2021,Global,1.21951193916838,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2022,Global,2.5805392590792,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Granada,2023,Global,2.69612269814564,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2000,Global,0.77177979690018,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2001,Global,1.40279663573988,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2002,Global,2.40765801293491,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2003,Global,1.99353055152454,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2004,Global,2.03007757853236,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2005,Global,2.09875196709308,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2006,Global,1.78778537419121,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2007,Global,1.41605259409741,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2008,Global,5.33380639820233,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2009,Global,-0.550159995508914,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2010,Global,3.37002540220148,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2011,Global,3.4567496723461,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2012,Global,3.37688044338874,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2013,Global,1.05949782356169,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2014,Global,1.08944157435355,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2015,Global,0.968993458825638,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2016,Global,-0.489437796230499,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2017,Global,2.43248789041363,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2018,Global,1.20715793367008,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2019,Global,1.43135598182984,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2020,Global,0.625989707046719,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2021,Global,2.06299638545334,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2022,Global,7.53107834634288,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Antigua y Barbuda,2023,Global,5.06713865364213,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2000,Global,4.66514984465855,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2001,Global,4.05508061344645,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2002,Global,3.75017465778466,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2003,Global,3.33727499671534,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2004,Global,4.32326492967491,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2005,Global,4.19020260472056,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2006,Global,4.21776067437438,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2007,Global,4.4566718143024,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2008,Global,8.06764767309808,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2009,Global,2.409053040822,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2010,Global,3.4032672308175,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2011,Global,4.7241951050509,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2012,Global,3.69449707884777,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2013,Global,2.01699224310383,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2014,Global,2.89883787761738,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2015,Global,0.836746346724557,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2016,Global,1.28192813061895,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2017,Global,2.16802747854515,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2018,Global,2.27205987230155,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2019,Global,2.09604635327807,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2020,Global,0.940742153381849,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2021,Global,3.46692585313082,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2022,Global,7.53107834634288,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Latina y el Caribe,2023,Global,4.59356282283204,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2000,Global,9.33322197565603,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2001,Global,13.31672224251,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2002,Global,7.03287406224601,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2003,Global,28.6995777887374,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2004,Global,21.0318339277222,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2005,Global,13.973008326384,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2006,Global,11.3452152244299,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2007,Global,6.55722772638066,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2008,Global,15.2817744823772,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2009,Global,0.393886040173341,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2010,Global,4.82734190074673,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2011,Global,6.33279483849042,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2012,Global,5.01804155429246,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2013,Global,4.76502404779142,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2014,Global,3.43816659958601,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2015,Global,6.73184069658997,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2016,Global,11.5029073942666,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2017,Global,10.6800887242584,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2018,Global,12.4814111170435,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2019,Global,18.7037825672506,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2020,Global,22.7963113642528,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2021,Global,16.8415240198785,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2022,Global,33.98393194707,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Haití,2023,Global,36.8135162780854,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2000,Global,5.9775773473714,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2001,Global,7.28587366610134,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2002,Global,8.13263054281053,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2003,Global,5.60347675434471,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2004,Global,7.57862247309731,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2005,Global,9.10864985719219,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2006,Global,6.56085282795382,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2007,Global,6.82161753590321,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2008,Global,11.3557611263151,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2009,Global,1.85910254733024,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2010,Global,3.85950909833173,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2011,Global,6.2141239306709,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2012,Global,3.78180754679688,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2013,Global,4.34337131279521,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2014,Global,3.4183616966296,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2015,Global,2.3887203283955,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2016,Global,4.44844199942827,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2017,Global,4.42453655182538,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2018,Global,3.75186186704508,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2019,Global,3.69998398008605,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2020,Global,3.21444062197345,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2021,Global,4.26105127422813,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guatemala,2022,Global,6.88512823344287,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2000,Global,6.14854333024871,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2001,Global,2.62741314203332,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2002,Global,5.3410152137741,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2003,Global,5.98097814066473,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2004,Global,4.66846622369882,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2005,Global,6.92554303890157,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2006,Global,6.67715790410028,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2007,Global,12.2001544446648,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2008,Global,8.10202206969276,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2009,Global,2.95230096381001,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2010,Global,3.73337757704246,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2011,Global,4.9777356370697,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2012,Global,2.39193521312334,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2013,Global,1.90125181860582,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2014,Global,0.852630497539914,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2015,Global,-1.00173432776374,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2016,Global,0.836008061506207,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2017,Global,1.90465615515584,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2018,Global,1.28284288443528,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2019,Global,2.08723089162013,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2020,Global,0.99333702283873,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2021,Global,5.03285574626702,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2022,Global,6.11505550109935,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Guyana,2023,Global,2.82110335099641,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2000,Global,8.17108356120225,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2001,Global,6.8019093078759,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2002,Global,7.07635009310985,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2003,Global,10.0869565217391,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2004,Global,13.5545023696682,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2005,Global,15.0528658875905,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2006,Global,8.56106408706157,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2007,Global,9.24482067275562,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2008,Global,22.0228384991843,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2009,Global,9.59224598930482,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2010,Global,12.6105519975603,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2011,Global,7.555856465809,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2012,Global,6.87397708674309,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2013,Global,9.34150076569673,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2014,Global,8.27407886231419,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2015,Global,3.69154228855725,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2016,Global,2.35102197485846,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2017,Global,4.37839864991561,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2018,Global,3.73663882152163,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2019,Global,3.90510000865872,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2020,Global,5.2267777929352,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2021,Global,5.86278242801063,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2022,Global,10.3495688391272,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Jamaica,2023,Global,6.47413734662063,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2000,Global,9.49156149435403,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2001,Global,6.36773806235037,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2002,Global,5.03072733151295,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2003,Global,4.54690012118718,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2004,Global,4.68840884843143,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2005,Global,3.98805714597437,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2006,Global,3.62946762439132,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2007,Global,3.96684905458235,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2008,Global,5.12498274575896,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2009,Global,5.29735584228856,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2010,Global,4.15672722680174,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2011,Global,3.40737824605742,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2012,Global,4.11150981070289,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2013,Global,3.80639069747204,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2014,Global,4.01861608078679,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2015,Global,2.72064064964023,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2016,Global,2.8217078474766,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2017,Global,6.04145724018986,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2018,Global,4.89935015356551,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2019,Global,3.63596142127046,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2020,Global,3.39683415570006,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2021,Global,5.68920847683753,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2022,Global,7.8962761916855,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",México,2023,Global,5.52796087314389,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2000,Global,6.59634219486069,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2001,Global,5.59984983852397,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2002,Global,7.40083583243601,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2003,Global,7.52957675201708,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2004,Global,4.55292351235803,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2005,Global,5.22212534790179,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2006,Global,4.28790984215744,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2007,Global,5.9853321014284,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2008,Global,8.25105900478369,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2009,Global,3.34645420142014,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2010,Global,3.73337757704246,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2011,Global,6.6364496221309,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2012,Global,4.51560291399376,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2013,Global,2.72177577710371,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2014,Global,4.71867527854663,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2015,Global,4.34877353217053,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2016,Global,4.08682280577241,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2017,Global,3.22063690421056,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2018,Global,2.43488981353057,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2019,Global,2.55754475703327,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2020,Global,2.26452352921999,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2021,Global,4.65627574191361,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2022,Global,9.19224296016155,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América del Sur,2023,Global,5.25056322649738,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2001,Global,1.79282868525896,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2002,Global,0.391389432485324,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2003,Global,1.63371391441571,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2004,Global,1.37912138094799,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2005,Global,4.11711711711708,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2006,Global,3.1149952409795,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2007,Global,2.99572039942908,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2008,Global,6.8763239367776,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2009,Global,1.75331605427595,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2010,Global,2.77944261312587,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2011,Global,2.3325315256217,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2012,Global,3.18398746349455,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2013,Global,1.33232086152117,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2014,Global,1.4987396961643,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2015,Global,-0.476542049801405,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2016,Global,-0.0472079848940293,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2017,Global,1.58558801700345,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2018,Global,2.58368756641814,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Curaçao,2019,Global,2.62220783425059,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2000,Global,4.04402131190513,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2001,Global,2.88360430316264,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2002,Global,3.31524678585423,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2003,Global,3.65636507938418,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2004,Global,2.52912946932762,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2005,Global,3.39778677828806,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2006,Global,3.60802438784541,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2007,Global,5.39256784475517,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2008,Global,8.95598705177784,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2009,Global,-2.13542872046937,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2010,Global,2.07814071860787,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2011,Global,4.31629742195203,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2012,Global,0.627471992893373,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2013,Global,-2.37206524252261,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2014,Global,0.421440918881214,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2015,Global,0.474763597342641,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2016,Global,-0.931195987079561,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2017,Global,-1.02828178762012,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2018,Global,3.62604141352961,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Aruba,2019,Global,4.25746204335428,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Martín (parte de los Países Bajos),2006,Global,0.300601202404805,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Martín (parte de los Países Bajos),2007,Global,4.43245754245754,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Martín (parte de los Países Bajos),2008,Global,-0.417929020080758,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Martín (parte de los Países Bajos),2009,Global,5.95763688760801,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Martín (parte de los Países Bajos),2010,Global,1.33857621672882,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Martín (parte de los Países Bajos),2011,Global,4.58475435650401,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Martín (parte de los Países Bajos),2012,Global,4.01518421081576,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Martín (parte de los Países Bajos),2013,Global,2.5286478853837,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Martín (parte de los Países Bajos),2014,Global,1.88675466275266,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Martín (parte de los Países Bajos),2015,Global,0.330027165141066,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Martín (parte de los Países Bajos),2016,Global,0.111682655737579,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Martín (parte de los Países Bajos),2017,Global,2.19201010962985,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2000,Global,2.43581303489137,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2001,Global,2.57783490431289,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2002,Global,0.12524945805599,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2003,Global,1.61943319838055,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2004,Global,1.39442231075691,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2005,Global,6.08218729535043,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2006,Global,7.30766262828939,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2007,Global,4.03422982885071,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2008,Global,8.10810810810782,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2009,Global,3.64386189258334,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2010,Global,5.82421853311866,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2011,Global,9.43220240177221,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2012,Global,4.53334753888766,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2013,Global,1.81410436049105,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2014,Global,1.76950322089729,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2015,Global,-1.11278992510967,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2016,Global,1.28192813061895,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2017,Global,4.66018463955996,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2018,Global,3.67381410406801,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2019,Global,4.10028964518461,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Barbados,2023,Global,9.79207077126447,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2000,Global,3.75733833344474,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2001,Global,1.97709878502053,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2002,Global,0.193135003853722,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2003,Global,2.25937753363072,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2004,Global,3.66247320092233,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2005,Global,1.61630193862544,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2006,Global,2.00225801248819,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2007,Global,1.77998644680372,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2008,Global,5.78587598206755,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2009,Global,2.936231535967,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2010,Global,1.52832059732901,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2011,Global,3.36931095333853,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2012,Global,3.61121294940163,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2013,Global,2.76789666082002,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2014,Global,3.41194579807465,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2015,Global,3.39809194746308,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2016,Global,3.55717663556279,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2017,Global,2.99490045809443,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2018,Global,1.50915423024742,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2019,Global,2.25212191358027,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2020,Global,2.00241205759292,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2021,Global,4.27166381536798,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2022,Global,8.33370630096231,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Perú,2023,Global,6.45561348369586,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2000,Global,7.06991352252517,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2001,Global,5.98604186279518,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2002,Global,3.75017465778466,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2003,Global,5.30238773219936,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2004,Global,8.47021063584077,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2005,Global,9.59909986064425,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2006,Global,9.1401996677772,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2007,Global,11.1269347446118,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2008,Global,19.8262031287429,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2009,Global,3.68700160498797,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2010,Global,5.45513425887423,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2011,Global,8.082387980991,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2012,Global,7.1935505333896,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2013,Global,7.13546785289407,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2014,Global,6.03596861798425,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2015,Global,3.99737996694396,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2016,Global,3.52317317628473,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2017,Global,3.85067166284727,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2018,Global,4.94723728039886,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2019,Global,5.37628990844126,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2020,Global,3.68181341625572,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2021,Global,4.92841396948968,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2022,Global,10.4674244465991,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Nicaragua,2023,Global,8.38765854872536,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2000,Global,3.7107860871361,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2001,Global,5.30722081028547,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2002,Global,-0.255536626916508,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2003,Global,1.03425372426221,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2004,Global,1.46036814425245,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2005,Global,3.89827370759476,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2006,Global,2.39562082529168,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2007,Global,2.82310373736929,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2008,Global,5.54954769383937,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2009,Global,-0.156936087168669,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2010,Global,3.25034409180129,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2011,Global,2.76940794144093,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2012,Global,4.17763587102515,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2013,Global,1.46856511035428,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2014,Global,3.51695551369241,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2015,Global,-0.983600952696996,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2016,Global,-3.07821765676927,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2017,Global,0.104262078958441,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2018,Global,1.93561893150602,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2019,Global,0.539087559191757,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2020,Global,-1.75580833517594,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2021,Global,2.41070312174393,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2022,Global,6.37814695133351,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Santa Lucía,2023,Global,4.07060821926204,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2000,Global,4.60822998872598,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2001,Global,1.58965377879568,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2002,Global,0.92825885161107,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2003,Global,3.33727499671534,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2004,Global,4.43738080101725,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2005,Global,5.39323106890663,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2006,Global,4.28239604802561,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2007,Global,8.70560923578869,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2008,Global,14.0068107702519,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2009,Global,3.34645420142014,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2010,Global,2.50327605844241,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2011,Global,9.88446419823883,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2012,Global,4.51560291399376,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2013,Global,5.73640023719607,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2014,Global,5.76660074579144,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2015,Global,4.05961041135645,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2016,Global,3.62321431764138,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2017,Global,2.8227580554717,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2018,Global,2.27205987230155,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2019,Global,1.83954504969026,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2020,Global,0.940742153381849,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2021,Global,0.737383721452275,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2022,Global,1.74632872945969,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bolivia (Estado Plurinacional de),2023,Global,2.57688800489192,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2000,Global,3.55541319666877,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2001,Global,5.536653263223,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2002,Global,4.1500586166472,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2003,Global,3.8111062439687,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2004,Global,3.72154938995965,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2005,Global,6.87453459583516,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2006,Global,8.32960351465347,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2007,Global,7.89438834757299,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2008,Global,12.0303445477177,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2009,Global,6.97808725251547,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2010,Global,10.5492003179988,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2011,Global,5.1071328926456,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2012,Global,9.26028137068292,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2013,Global,5.19981740465611,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2014,Global,5.68441814595659,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2015,Global,4.66121598098264,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2016,Global,3.07066742464024,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2017,Global,1.88038440183532,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2018,Global,1.01856930188822,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2019,Global,1.00054293027237,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2020,Global,0.598986330824643,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2021,Global,2.05922746915458,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2022,Global,5.82838638517959,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Trinidad y Tabago,2023,Global,4.62930242419968,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2000,Global,3.06743966930585,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2001,Global,3.65141786561502,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2002,Global,4.24026660688645,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2003,Global,2.31808274663101,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2004,Global,6.39443099742399,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2005,Global,-1.1043104441191,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2006,Global,-7.11376771265014,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2007,Global,2.31808274642021,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2008,Global,6.39443100250034,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2009,Global,-1.10431044864355,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2010,Global,0.917977378808888,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2011,Global,1.602056156402,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2012,Global,1.30058074547858,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2013,Global,0.50974776898322,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2014,Global,1.20139964481058,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2015,Global,-0.861584009427748,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2016,Global,0.663427167917601,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2017,Global,1.14765339305816,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2018,Global,0.269982622646335,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2019,Global,0.187069385181424,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2020,Global,0.121434644614894,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2021,Global,3.23563659237071,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2022,Global,6.27689319447544,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Belice,2023,Global,4.38984017487675,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2000,Global,4.76382472733251,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2001,Global,4.3593406521727,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2002,Global,13.9724725913515,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2003,Global,19.3797301743995,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2004,Global,9.15760507540997,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2005,Global,4.6992773903564,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2006,Global,6.39764974385131,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2007,Global,8.11464561179313,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2008,Global,7.87707374730888,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2009,Global,7.06221874388574,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2010,Global,6.69870886978132,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2011,Global,8.0928320630299,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2012,Global,8.09776580573602,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2013,Global,8.57513504005397,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2014,Global,8.87735333229828,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2006,Global,3.29874846258215,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2007,Global,2.27618478002121,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2008,Global,8.40009593987462,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2009,Global,5.15996829181047,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2010,Global,3.55437734567843,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2011,Global,4.4745326579584,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2012,Global,5.10172180958666,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2013,Global,2.72177577710371,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2014,Global,3.58922016616663,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2015,Global,3.96664623255358,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2016,Global,1.72826463324533,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2017,Global,0.417335588666825,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2018,Global,-0.224103246005552,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2019,Global,0.266012515466155,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2020,Global,-0.338872392562139,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2021,Global,0.133251386096389,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2022,Global,3.46616972213077,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2023,Global,2.21568764237058,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2000,Global,1.60632941740579,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2001,Global,2.04498977505121,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2002,Global,2.17357792508093,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2003,Global,3.02504526252236,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2004,Global,0.981914036757662,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2005,Global,1.59160618079802,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2006,Global,2.38982627439254,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2007,Global,2.49257794939396,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2008,Global,4.4895599537506,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2009,Global,2.06273473452682,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2010,Global,1.34402738392836,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2011,Global,3.1987814166032,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2012,Global,1.97336755976254,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2013,Global,0.722414784530551,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2014,Global,1.51375643050831,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2015,Global,1.86148302863371,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2016,Global,-0.346376929989397,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2017,Global,1.51820700736147,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2018,Global,2.26586346678736,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2019,Global,2.49123527368046,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2020,Global,0.0385210980054558,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2021,Global,2.90491262928478,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2022,Global,5.60540633583044,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Bahamas,2023,Global,3.05291578969743,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2000,Global,1.49896111605777,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2001,Global,0.307062436028722,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2002,Global,1.00583090379039,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2003,Global,0.391666666666657,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2004,Global,0.474723078204336,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2005,Global,2.85588324760959,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2006,Global,2.45789346442096,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2007,Global,4.16863300298887,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2008,Global,8.75868317728784,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2009,Global,2.409053040822,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2010,Global,3.491288726188,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2011,Global,5.8758024367877,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2012,Global,5.69819959165992,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2013,Global,4.0271599157106,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2014,Global,2.62652699929151,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2015,Global,0.137492058461504,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2016,Global,0.739734025300033,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2017,Global,0.875585918759878,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2018,Global,0.761578359399944,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2019,Global,-0.355083821021245,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2020,Global,-1.5502754080376,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2021,Global,1.63070337301898,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2022,Global,2.85965128834711,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Panamá,2023,Global,1.48641355277038,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2015,Global,8.66626987079328,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2016,Global,9.6394134763508,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2017,Global,6.2180938256186,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2018,Global,7.60653360377047,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2019,Global,7.88198870879619,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2020,Global,9.75640636078194,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2021,Global,7.74791402314762,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2022,Global,9.10437983075437,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Uruguay,2023,Global,5.86910359896119,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2000,Global,59.401686545079,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2001,Global,38.5862878872611,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2002,Global,15.5273989185702,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2003,Global,23.0022321778219,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2004,Global,9.98632511974878,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2005,Global,9.89800489561465,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2006,Global,11.2813043273975,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2007,Global,6.42627934470524,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2008,Global,14.6671427437912,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2009,Global,-0.133636646714877,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2010,Global,6.94108221639996,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2011,Global,17.7117796414558,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2012,Global,5.00686319367273,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2013,Global,1.92343604108305,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2014,Global,3.38341272749477,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2015,Global,6.89390359168238,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2016,Global,55.4123879763196,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2017,Global,21.9969430173304,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2020,Global,34.889784309078,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2021,Global,59.1196626251977,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2022,Global,52.446027276241,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Suriname,2023,Global,51.5873159600861,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2000,Global,7.04414105947266,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2001,Global,6.84035902487523,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2002,Global,8.45016437708331,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2003,Global,14.7149197228147,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2004,Global,6.59718509985963,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2005,Global,6.86953720898964,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2006,Global,4.18356812896909,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2007,Global,3.64127299102652,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2008,Global,5.67859390284168,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2009,Global,4.88803479876799,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2010,Global,5.03872690108075,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2011,Global,6.6364496221309,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2012,Global,5.40349914036997,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2013,Global,6.20431066640101,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2014,Global,6.32904015516139,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2015,Global,9.02990102416136,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2016,Global,8.73914352329393,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2017,Global,3.44637335032669,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2018,Global,3.66485028376729,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2019,Global,3.73297621216894,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2020,Global,3.21176803803376,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2021,Global,8.30165975585673,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2022,Global,9.28010608956873,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Brasil,2023,Global,4.59356282283204,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2000,Global,6.52374543494829,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2001,Global,6.17688996257278,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2002,Global,4.6354969691997,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2003,Global,4.92464392669327,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2004,Global,6.98652673526065,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2005,Global,6.75000472861794,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2006,Global,4.80743783541955,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2007,Global,5.69985162983737,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2008,Global,10.0572221518015,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2009,Global,3.04802732290498,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2010,Global,4.00811816256673,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2011,Global,5.5023631018019,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2012,Global,4.30348147712447,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2013,Global,4.1852656142529,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2014,Global,3.7184888887082,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2015,Global,1.59535116674756,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2016,Global,1.73217312912646,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2017,Global,2.7382892963823,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2018,Global,2.98648824115545,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2019,Global,2.86600388727426,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2020,Global,1.96967605005241,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2021,Global,3.86398856367948,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2022,Global,7.54744617389209,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",América Central,2023,Global,4.38984017487675,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2000,Global,9.22534818585366,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2001,Global,7.96556090304834,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2002,Global,6.35150728778872,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2003,Global,7.1297886294186,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2004,Global,5.90402005546502,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2005,Global,5.05101962689696,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2006,Global,4.29342363628927,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2007,Global,5.54438485815156,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2008,Global,6.99688495554511,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2009,Global,4.20251661216482,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2010,Global,2.27200227892008,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2011,Global,3.4150334477625,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2012,Global,3.16930188840055,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2013,Global,2.01699224310383,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2014,Global,2.89883787761738,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2015,Global,4.9898311584953,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2016,Global,7.51346024627675,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2017,Global,4.31431325695011,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2018,Global,3.24056932930569,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2019,Global,3.52301932741447,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2020,Global,2.52663500084706,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2021,Global,3.49505757399448,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2022,Global,10.1772313546166,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Colombia,2023,Global,11.7359044948689,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2000,Global,0.856946805358483,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2001,Global,1.3038940346596,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2002,Global,0.170055330197681,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2003,Global,1.45336800437251,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2004,Global,2.39410982050298,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2005,Global,1.68190079877553,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2006,Global,2.2023913263167,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2007,Global,3.63222129317821,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2008,Global,6.35992183336295,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2009,Global,0.00626357107066859,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2010,Global,2.99936630549,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2011,Global,1.1312313652648,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2012,Global,1.3567714780886,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2013,Global,-0.0464116468805992,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2014,Global,0.799250372687492,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2015,Global,-0.84382698463833,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2016,Global,0.141816225732312,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2017,Global,0.296252889279487,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2018,Global,0.98919111918989,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2019,Global,1.50462353858141,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2020,Global,-0.727116412668203,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2021,Global,1.4831944499819,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2022,Global,7.7806152516404,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Dominica,2023,Global,4.22769324983409,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2000,Global,96.0963756926096,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2001,Global,37.6767454518094,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2002,Global,12.4835980082095,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2003,Global,7.92936487461556,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2004,Global,2.74323198926704,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Ecuador,2005,Global,2.1682770118372,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2000,Global,8.98215976750022,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2001,Global,7.26806028584825,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2002,Global,10.5102420856612,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2003,Global,14.2367970499143,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2004,Global,4.32326492967491,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2005,Global,6.80738203116377,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2006,Global,9.58934941129229,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2007,Global,8.13047417698577,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2008,Global,10.1547846489023,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2009,Global,2.59194673430567,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2010,Global,4.65116279069765,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2011,Global,8.2539682539683,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2012,Global,3.67591897974496,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2013,Global,2.68385738718582,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2014,Global,5.02882767456766,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2015,Global,3.12900274473925,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2016,Global,4.08682280577241,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2017,Global,3.60247741348943,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2018,Global,3.97561015740694,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2019,Global,2.75709727562775,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2020,Global,1.76751592356698,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2021,Global,4.787983101236,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2022,Global,9.76556667164402,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Paraguay,2023,Global,4.63202285403356,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2000,Global,2.14885532743696,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2001,Global,2.30344748349255,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2002,Global,2.04109102620208,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2003,Global,2.23543664374553,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2004,Global,2.31455462238093,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2005,Global,3.37781903988238,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2006,Global,8.48748575845879,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2007,Global,4.48088608614726,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2008,Global,5.30029675072584,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2009,Global,2.05793709041836,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2010,Global,0.850878649795844,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2011,Global,5.8351651957086,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2012,Global,0.816089281562459,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2013,Global,1.10698554000129,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2014,Global,0.247865392364942,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2015,Global,-2.30187563045616,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2016,Global,-0.687037123294039,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2017,Global,0.694916711613604,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2018,Global,-1.03712214131572,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2019,Global,-0.329562063663977,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2020,Global,-1.16724501769353,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2021,Global,1.195688870384,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2022,Global,2.66817533111249,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Saint Kitts y Nevis,2023,Global,3.55711230848243,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2000,Global,0.167679637488279,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2001,Global,0.9008584858665,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2002,Global,1.85550399046655,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2003,Global,0.205981708824254,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2004,Global,2.96003946719286,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2005,Global,3.7334291646702,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2006,Global,2.74067516070673,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2007,Global,7.23614701584807,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2008,Global,10.0662418245849,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2009,Global,0.421539125687215,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2010,Global,0.747109026311474,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2011,Global,3.1860311155246,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2012,Global,2.59844414147101,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2013,Global,0.805127804267928,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2014,Global,0.193858560794015,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2015,Global,-1.73361194953959,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2016,Global,-0.149641647633284,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2017,Global,2.15333648840511,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2018,Global,2.32414485367921,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2019,Global,0.91306972532459,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2020,Global,-0.628131309354654,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2021,Global,1.57272932500558,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2022,Global,5.66009779226552,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",San Vicente y las Granadinas,2023,Global,4.56457719814894,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Venezuela (República Bolivariana de),2009,Global,27.080941446613,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Venezuela (República Bolivariana de),2010,Global,28.1874647092039,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Venezuela (República Bolivariana de),2011,Global,26.0902123160959,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Venezuela (República Bolivariana de),2012,Global,21.0689956331876,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Venezuela (República Bolivariana de),2013,Global,40.6394275161589,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Venezuela (República Bolivariana de),2014,Global,62.1686499794829,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Venezuela (República Bolivariana de),2015,Global,121.738085297503,Porcentaje,,6405,INF,,World Bank
+"Inflación anual, precios al consumidor (%) FP_CPI_TOTL_ZG",Venezuela (República Bolivariana de),2016,Global,254.948534781816,Porcentaje,,6405,INF,,World Bank
