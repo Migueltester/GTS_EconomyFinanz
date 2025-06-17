@@ -13,6 +13,7 @@
 ---
 ## Organización de carpetas
 
+```bash
 economia_finanzas_project/
 │
 ├── .venv/
@@ -25,34 +26,29 @@ economia_finanzas_project/
 ├── informe/            # Informe técnico PDF
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Pasos para ejecutar .venv y descargar librerias
 
 ## 1. copiar el repositorio en tu local
-'''
+```bash
 
 git clone repo.git
-
-
-bash'''
+```
 
 ## 2. entrar en el .venv (entorno virtual de python)
-'''
+```bash
 
 .venv\Scripts\activate
+```
 
 
 
-bash'''
 
 ## 3. instalar librerias en tu entorno virtual
 
-'''
+```bash
 
 pip install -r requirements.txt
 
-
-
-
-bash'''
+```
